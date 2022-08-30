@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "𝐃𝐀𝐈𝐓𝐂𝐇𝐈𝐈",
   "version": "4.0.1",
   "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
-  "main": "./Raganork/bot.js",
+  "main": "./Daitchi/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://instagram.com/wl6wr?igshid=YmMyMTA2M2Y="
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "𝐃𝐀𝐈𝐓𝐂𝐇𝐈 / @daitchi",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://instagram.com/wl6wr?igshid=YmMyMTA2M2Y="
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://instagram.com/wl6wr?igshid=YmMyMTA2M2Y=",
   "dependencies": {
     "file-type": "16.5.2",
     "nekobin": "0.0.1",
